@@ -1,0 +1,9 @@
+c:\users\angelo\documents\visual studio 2010\Projects\ForceCrashFixed\ForceCrashFixed\bin\Debug\ForceCrashFixed.exe
+c:\users\angelo\documents\visual studio 2010\Projects\ForceCrashFixed\ForceCrashFixed\bin\Debug\ForceCrashFixed.pdb
+c:\users\angelo\documents\visual studio 2010\Projects\ForceCrashFixed\ForceCrashFixed\bin\Debug\ForceCrashFixed.xml
+c:\users\angelo\documents\visual studio 2010\Projects\ForceCrashFixed\ForceCrashFixed\obj\x86\Debug\ForceCrashFixed.Form1.resources
+c:\users\angelo\documents\visual studio 2010\Projects\ForceCrashFixed\ForceCrashFixed\obj\x86\Debug\ForceCrashFixed.Resources.resources
+c:\users\angelo\documents\visual studio 2010\Projects\ForceCrashFixed\ForceCrashFixed\obj\x86\Debug\ForceCrashFixed.vbproj.GenerateResource.Cache
+c:\users\angelo\documents\visual studio 2010\Projects\ForceCrashFixed\ForceCrashFixed\obj\x86\Debug\ForceCrashFixed.exe
+c:\users\angelo\documents\visual studio 2010\Projects\ForceCrashFixed\ForceCrashFixed\obj\x86\Debug\ForceCrashFixed.xml
+c:\users\angelo\documents\visual studio 2010\Projects\ForceCrashFixed\ForceCrashFixed\obj\x86\Debug\ForceCrashFixed.pdb
